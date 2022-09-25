@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @ Wilson Ikaba
-- 👀 I’m interested in . Data analysis projects with r programming,SQL &Python
-- 🌱 I’m currently learning R programming, Python and SQL
-- 💞️ I’m looking to collaborate on data analysis projects with R programming & Sql initially followed by Python later on.
-- 📫 How to reach me ...wwaweru49@gmail.com or https://twitter.com/wwaweru49
-
-<!---
-wwaweru49/wwaweru49 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Project description
+Candy Crush Saga is a hit mobile game developed by King (part of Activision|Blizzard) that is played by millions of people all around the world.In this Project, I worked with a real Candy Crush dataset and used the data to estimate level difficulty. This Project assumes you can manipulate data frames using dplyr and make plots using ggplot2
